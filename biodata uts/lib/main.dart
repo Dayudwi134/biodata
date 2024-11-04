@@ -49,7 +49,7 @@ class BiodataApp extends StatelessWidget {
                 style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
               ),
               Text(
-                'Teknologi Informasi',
+                'Teknologi Informasi (TI)',
                 style: TextStyle(fontSize: 16),
               ),
               SizedBox(height: 10),
